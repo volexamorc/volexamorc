@@ -15,7 +15,7 @@
 
 ## ⚡ About
 
-BI & Analytics student focused on **Financial Crime Analytics** and **Financial Risk Analytics** in banks and fintech. I build compliance dashboards, fraud detection systems, and credit risk reporting pipelines
+BI & Analytics student focused on **Financial Crime Analytics** and **Financial Risk Analytics** in banks and fintech. I build compliance dashboards, fraud detection systems, and credit risk reporting pipelines.
 
 `AML` · `KYC` · `Fraud Detection` · `Sanctions Compliance` · `Risk Modeling`
 
